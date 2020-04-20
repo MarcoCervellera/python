@@ -1,0 +1,1 @@
+#il corso contiene informazioni obsolete

@@ -1,0 +1,1 @@
+#Folium è utilzzabile solo in jupiter notebook
