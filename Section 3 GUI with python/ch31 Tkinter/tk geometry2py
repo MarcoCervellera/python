@@ -1,0 +1,11 @@
+import tkinter
+from tkinter import *
+
+win = Tk()
+
+ll = Label(win, text="Maths")
+ll.place(x=10, y=10)
+e1 = Entry(win, bd = 5)
+e1.place(x=30, y=10)
+
+win.mainloop()
